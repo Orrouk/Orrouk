@@ -1,10 +1,15 @@
 - 👋 Hi, I’m @Orrouk
-- 👀 I’m interested in everything.
-- 🌱 I’m currently learning, yes, and I'll never stop.
-- 💞️ I’m looking to collaborate on dnn, wiki, booking, seo, j-son
-- 📫 How to reach me? I'm Orrouk, the only one. Google-me, say hi, be true.
+- 👀 I’m interested in connecting OpenAI and DNN.
+- 🌱 I’m currently learning, yes, and I'll never stop... it's written there **https://or-rouge.com/Mythologie/Biofiction**
+- 💞️ I’m looking to collaborate with agile ppl.
+- 📫 If you can't find out how to reach me, it's probably better to live things as they are.
 
 <!---
 Orrouk/Orrouk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<h1>Patrick Gauthier, Artist DNN and AI</h1>
+
+More at <a href="https://or-rouge.com/Mythologie/Biofiction">OrRouge</a>
+
