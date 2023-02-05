@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Orrouk
 - 👀 I’m interested in connecting OpenAI and DNN.
-- 🌱 I’m currently learning, yes, and I'll never stop... it's written there **https://or-rouge.com/Mythologie/Biofiction**
+- 🌱 I’m currently learning, yes, and I'll never stop... **https://or-rouge.com**
 - 💞️ I’m looking to collaborate with agile ppl.
 - 📫 If you can't find out how to reach me, it's probably better to live things as they are.
 
